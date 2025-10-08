@@ -1,4 +1,4 @@
-# 🌤️ WeatherApp v8
+# 🌤️ WeatherApp
 
 ## Overview
 **WeatherApp v8** is a Kotlin-based Android application that delivers real-time weather updates for any city worldwide.  
